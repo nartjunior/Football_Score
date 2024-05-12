@@ -40,10 +40,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Home](home.jpg)
-
 
 
 ```
 ![Home](home.jpg)
+<img src="home.jpg" alt="Home" width="200"/>
 

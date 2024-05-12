@@ -40,7 +40,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Home]([https://github.com/nartjunior/Football_Score/blob/main/home.jpg])
+![Home]([home.jpg])
 
 
 ```

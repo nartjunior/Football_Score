@@ -1,4 +1,5 @@
 # Football_Score
+Important: The app is not finished! Everyday will add new Updates
 
 ```markdown
 # Football Score Tracker

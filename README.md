@@ -43,6 +43,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ```
-![Home](home.jpg)
+
 <img src="home.jpg" alt="Home" width="200"/>
 
